@@ -4,3 +4,5 @@
 
 ![NatashaDashkovska's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NatashaDashkovska)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NatashaDashkovska)
+
+[![NatashaDashkovska's wakatime stats2](https://github-readme-stats.vercel.app/api/wakatime?username=NatashaDashkovska)](https://github.com/anuraghazra/github-readme-stats)
