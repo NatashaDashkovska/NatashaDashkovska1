@@ -10,6 +10,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatashaDashkovska)](https://git.io/streak-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NatashaDashkovska&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
